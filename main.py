@@ -4,6 +4,8 @@ from google.cloud import texttospeech
 import openai
 import os
 from credentials import config
+from werkzeug.urls import url_quote
+
 
 app = Flask(__name__)
 

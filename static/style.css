@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#user-input {
+  margin-bottom: 20px;
+}
+
+#user-audio,
+#send-button {
+  padding: 10px;
+  margin: 5px;
+}
+
+#bot-response {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+}

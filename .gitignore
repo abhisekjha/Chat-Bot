@@ -1,4 +1,8 @@
-#ignore env
+# Ignore virtual environment directory
 venv/
+
+# Ignore credentials directory
 credentials/
-config.py/
+
+# Ignore configuration file
+config.py

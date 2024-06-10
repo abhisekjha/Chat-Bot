@@ -2,16 +2,6 @@
 
 ![GenAI-Bot](static/chatbot1.png)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 **GenAI-Bot** is an AI-powered chatbot designed to provide personalized interactions and responses. The chatbot is built with a simple web interface that allows users to input messages and receive AI-generated responses in real-time.

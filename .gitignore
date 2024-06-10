@@ -1,4 +1,4 @@
 #ignore env
-.venv
+venv/
 credentials/
 config.py/

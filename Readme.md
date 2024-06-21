@@ -25,7 +25,7 @@ Follow these steps to set up and run the GenAI-Bot on your local machine.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/GenAI-Bot.git
+    git clone https://github.com/abhisekjha/GenAI-Bot.git
     cd GenAI-Bot
     ```
 

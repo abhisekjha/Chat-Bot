@@ -41,8 +41,9 @@ Follow these steps to set up and run the GenAI-Bot on your local machine.
     ```
 
 4. **Get OPENAI API**
+   Get any api you want and use it
 
-5. **Run the application**:
+6. **Run the application**:
     ```bash
     python src/main.py
     ```
